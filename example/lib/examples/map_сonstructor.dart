@@ -21,12 +21,12 @@ class JsonViewApp extends StatelessWidget {
           child: JsonView.map(
             {
               'author': {
-                'name': 'Stas',
-                'lastName': 'lin',
-                'githubLogin': 'Frezyx',
-                'age': 19,
+                'name': 'Vishnu',
+                'lastName': 'Sivan',
+                'githubLogin': 'codemaker2015',
+                'age': 27,
                 'man': true,
-                'height': 186.5
+                'height': 160
               },
             },
           ),

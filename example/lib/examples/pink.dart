@@ -18,7 +18,7 @@ class JsonViewApp extends StatelessWidget {
         body: Padding(
           padding: const EdgeInsets.all(10),
           child: JsonView.string(
-            '{"people":{"name": "Stas", "lastName": "Ilin", "githubLogin": "Frezyx", "age": 19, "man": true, "height": 186}}',
+            '{"people":{"name": "Vishnu", "lastName": "Sivan", "githubLogin": "codemaker2015", "age": 27, "man": true, "height": 160}}',
             theme: JsonViewTheme(
               keyStyle: TextStyle(
                 color: Colors.deepPurple,
